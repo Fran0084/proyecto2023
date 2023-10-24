@@ -2,12 +2,16 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
 
 
 .body {
+
     width: 100%;
     background-color: black;
+    
+
 }
 
 
@@ -27,6 +31,7 @@
     box-shadow: 0 0 10px 2px wheat;
     border-bottom-right-radius: 15px;
     border-bottom-left-radius: 15px;
+    
 }
 
 .divInput {
@@ -92,6 +97,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    
 
 }
 
@@ -103,6 +109,8 @@
     display: grid;
     column-gap: 15rem;
     row-gap: 2rem;
+   
+   
 
 
     grid-template-columns: 300px 300px 300px;
@@ -132,6 +140,7 @@
 .nota1 {
     grid-area: "nota1";
     border: 2px solid pink;
+   
 
 }
 
@@ -202,6 +211,8 @@
     box-shadow: 15px 15px 15px white;
     border-left: 1px solid wheat;
     border-top: 1px solid wheat;
+    overflow: hidden;
+
 }
 
 .sectionMain2 {
@@ -259,12 +270,15 @@
     color: grey;
     padding: 1rem;
     line-height: 1.5rem;
+    /*overflow: auto;*/
+
 }
 
 .h1 {
     font-family: Georgia, 'Times New Roman', Times, serif;
-    color: black;
+    color: white;
     padding-top: 1rem;
+    padding-top: -10rem;
 }
 
 
@@ -281,10 +295,3 @@
 
 }
 
-.divv {
-    width: 0;
-    height: 0;
-    border-left: 100px solid #111110;
-    border-top: 50px solid transparent;
-    border-bottom: 50px solid transparent;
-}
