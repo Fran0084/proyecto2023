@@ -1,10 +1,3 @@
-.yo{
-    background-color: green($color: #000000);
-}
-
-.divisor{
-    align-items: center};
-
-    .logj{
-        color: red($color: #000000);
-    }
+@import "./parciales/base";
+@import "./parciales/body";
+@import "./parciales/header";
