@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
+
+        <link rel="stylesheet" href="./css/styles.css">
+
+
+
+    <title>octubre</title>
+
+</head>
+
+<body class="body">
+    <header>
+        <nav class="nav">
+            <img class="imgnav" src="./imagenes/logo google.png" alt="logoGoogle">
+
+            <div class="divInput">
+                <label class="label" for="">Buscar</label>
+                <input class="input" type="text">
+            </div>
+            <ul class="ul">
+                <li class="li"><a href="http:/www.facebook.com.ar" class="li__nav">Inicio</a></li>
+                <li class="li">productos</li>
+                <li class="li">faq</li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main">
+
+        <div class="divMain">
+            <section class="sectionMain1">
+                <div class="div" class="nota1">
+                    <h1 class="h1">Noticia del dia</h1>
+                    <img class="imgNoticia" src="./imagenes/logo google.png" alt="">
+                    <p class="p2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex alias, ea laudantium
+                        aperiam sit
+                        molestiae laborum illum ipsa rem cumque odio. Ducimus dicta perferendis corporis! Ipsam maxime
+                        consequatur quod non.</p>
+                </div>
+
+
+            </section>
+
+            <section class="sectionMain2">
+                <div class="div" class="nota2">
+                    <h1 class="h1">Noticia del dia</h1>
+                    <img class="imgNoticia" src="./imagenes/logo google.png" alt="">
+                    <p class="p2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex alias, ea laudantium
+                        aperiam sit
+                        molestiae laborum illum ipsa rem cumque odio. Ducimus dicta perferendis corporis! Ipsam maxime
+                        consequatur quod non.</p>
+                </div>
+
+
+            </section>
+
+            <section class="sectionMain3">
+                <div class="div" class="nota3">
+                    <h1 class="h1">Noticia del dia</h1>
+                    <img class="imgNoticia" src="./imagenes/logo google.png" alt="">
+                    <p class="p">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex alias, ea laudantium
+                        aperiam sit
+                        molestiae laborum illum ipsa rem cumque odio. Ducimus dicta perferendis corporis! Ipsam maxime
+                        consequatur quod non.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis velit inventore debitis omnis
+                        in quis ipsam facere esse, distinctio sapiente autem harum est ex maiores, laudantium a iusto
+                        deleniti delectus.
+                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias assumenda earum, excepturi
+                        accusamus ducimus deleniti ex, rerum ullam facilis voluptatibus consequuntur et! Aperiam
+                        reiciendis nostrum totam alias vero sint nisi.</p>
+
+                </div>
+            </section>
+
+            <section class="sectionMain4">
+                <div class="div" class="nota4">
+                    <h1 class="h1">Noticia del dia</h1>
+                    <img class="imgNoticia" src="./imagenes/logo google.png" alt="">
+                    <p class="p2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex alias, ea laudantium
+                        aperiam sit
+                        molestiae laborum illum ipsa rem cumque odio. Ducimus dicta perferendis corporis! Ipsam maxime
+                        consequatur quod non.</p>
+
+                </div>
+
+
+            </section>
+
+            <section class="sectionMain5">
+                <div class="div" class="nota5">
+                    <h1 class="h1">Noticia del dia</h1>
+                    <img class="imgNoticia" src="./imagenes/logo google.png" alt="">
+                    <p class="p2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ex alias, ea laudantium
+                        aperiam sit
+                        molestiae laborum illum ipsa rem cumque odio. Ducimus dicta perferendis corporis! Ipsam maxime
+                        consequatur quod non.</p>
+
+
+                </div>
+
+
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="divFooter">
+            <ul class="ulFooter">
+                <li class="liFooter"><a href="http://www.facebook.com.ar" target="_blank" rel="noopener noreferrer"><img
+                            src="./imagenes/facebook.png" alt="logoFace" class="redesFooter"></a></li>
+
+                <li class="liFooter"><a href="http://www.facebook.com.ar" target="_blank" rel="noopener noreferrer"><img
+                            src="./imagenes/instagram.png" alt="logoFace" class="redesFooter"></a></li>
+
+                <li class="liFooter"><a href="http://www.facebook.com.ar" target="_blank" rel="noopener noreferrer"><img
+                            src="./imagenes/twitter.png" alt="logoFace" class="redesFooter"></a></li>
+
+                <li class="liFooter"><a href="http://www.facebook.com.ar" target="_blank" rel="noopener noreferrer"><img
+                            src="./imagenes/youtube.png" alt="logoFace" class="redesFooter"></a></li>
+
+            </ul>
+        </div>
+
+        <div>
+            <span>Derechos Reservados 2023</span>
+        </div>
+
+        <div>
+            <img src="./imagenes/logo google.png" alt="logoGoogle" class="imgnav">
+        </div>
+</footer>
+
+
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+   
+</body>
+
+</html>
